@@ -5,6 +5,8 @@ classification using a Convolutional Neural Network (CNN). Once a fault is detec
 notification is played, and a reminder is set to notify the user to check the solar panels after a fixed 
 time interval (e.g., 1 hour). The system also generates synthetic fault images for testing. 
 
+#Link to Dataset: https://www.kaggle.com/code/pythonafroz/dust-detection-on-solar-panel-using-inceptionv3
+
 Key Components: 
 1. Image Classification Model: Trains a model to classify solar panel images into clean or dusty 
 categories. 
